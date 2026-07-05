@@ -13,7 +13,7 @@ if answer.lower() == "yes":
 else:
     print("Geez man..ig I'm not that famous afterall...")
 print()    
-print("Anyway now, let's get started with the quiz. Pass it, and we will get you an appoinmet with the professor")
+print("Anyway now, let's get started with the quiz. Pass it, and we will get you an appoinment with the professor")
 print()
 
 #quiz starts
