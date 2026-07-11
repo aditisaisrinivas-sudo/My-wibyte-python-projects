@@ -20,7 +20,7 @@ print()
 
 answer = input("Your first question - what is (4.7)^2")
 
-if answer.lower() == "22.09":
+if answer() == "22.09":
     print("That was an easy question. I'd be shocked if you got it wrong!!")
 else:
     print("How could one get that wrong! I am quite disapointed.")
